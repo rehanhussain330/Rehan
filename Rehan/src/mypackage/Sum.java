@@ -1,5 +1,5 @@
 package mypackage;
-// sum of two numbers and input by the user
+// Input two numbers to perform mathematical operations
 import java.util.Scanner;
 public class Sum {
 public static void main(String[] args) {
